@@ -1,0 +1,6 @@
+This program results the factorial of given input number.
+
+Example:
+
+input : 5
+output: Factorial of 5 is: 120
