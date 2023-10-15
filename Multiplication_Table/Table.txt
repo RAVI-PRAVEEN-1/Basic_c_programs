@@ -1,0 +1,12 @@
+This program results the multiplication table of selected value upto the number of terms we want.
+
+Example:
+
+Input :enter the value for the table:5
+       enter the limit of table: 5
+
+Output: 5x1=5
+        5x2=10
+        5x3=15
+        5x4=20
+        5x5=25
