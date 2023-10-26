@@ -1,0 +1,7 @@
+this program returns the sum of n natural numbers.
+where n is last term.
+
+Output:
+
+Enter the value of n(positive integer): 6
+Sum of first 6 natural numbers is: 21
