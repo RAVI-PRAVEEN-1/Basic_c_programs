@@ -13,6 +13,5 @@ def isprime(n):
             return False
     return True
 
-
 n=int(input())
 print(isprime(n))
